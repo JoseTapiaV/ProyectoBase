@@ -16,6 +16,7 @@ import ec.edu.ups.vista.Principal.Administrador;
 public class BuscarEmpleado extends javax.swing.JInternalFrame {
     public static String x;
     private PersonaControlador personaControlador;
+        
     /**
      * Creates new form BuscarEmpleado
      */
