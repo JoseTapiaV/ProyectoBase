@@ -324,9 +324,7 @@ public class CrearEmpleado extends javax.swing.JInternalFrame {
         //personas.setEstado((estado.charAt(0)));
         
         personaControlador.create(personas);
-        
-        
-        
+                      
         JOptionPane.showMessageDialog(this, "Persona Registrada", "Crear Persona", JOptionPane.OK_OPTION);
         txtcedula.setText("");
         txtnombre.setText("");
@@ -336,8 +334,7 @@ public class CrearEmpleado extends javax.swing.JInternalFrame {
         txtusuario.setText("");
         txtcontraseña.setText("");
         txtcelular.setText("");
-        txtemail.setText("");
-        
+        txtemail.setText("");      
     }//GEN-LAST:event_jButton1ActionPerformed
 
 
